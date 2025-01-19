@@ -1,1 +1,1 @@
-# langchain-project
+# streamlit-app-poc 
